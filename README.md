@@ -4,10 +4,10 @@ This repository contains the implementation of various machine learning algorith
 ## Requirements
 To run the code in this repository, you need to have the following dependencies installed:
 
-Python 3.x
-NumPy
-Matplotlib
-scikit-learn
+1. Python 3.x
+2. NumPy
+3. Matplotlib
+4 .scikit-learn
 
 ## Algorithms Implemented
 Logistic Regression
