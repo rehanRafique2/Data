@@ -10,4 +10,5 @@ To run the code in this repository, you need to have the following dependencies 
 4 .scikit-learn
 
 ## Algorithms Implemented
-Logistic Regression
+1. Logistic Regression
+2. Support Vector Machines (SVM)
